@@ -1,0 +1,99 @@
+body,html{
+    height:100%;
+    padding:0px;
+    margin:0px;
+    background-color:#393e46;
+}
+.e{
+    background-color:#f96d00;
+    height:15%;
+    width:100%;
+    margin: 0 auto;
+    display: inline-block;
+    float: left;
+}
+.a{
+    background-color:#5c636e;
+    width:100%;
+    height:100%;
+    float: left;
+    overflow-y: scroll;
+    margin: 0% auto;
+    
+}
+.d{
+    background-color:#393e46;
+    height:10%;
+    width:100%;
+    position:fixed;
+    bottom:0px;
+    float: left;
+    text-align: center;
+}
+
+/*----------------------------------*/
+.f{
+    background-color:#5c636e;
+    width:60%;
+    height:85%;
+    margin: 0% auto;
+    overflow-y: scroll;
+}
+/*----------------------------------*/
+
+#titulo{
+    text-align: center; 
+    font-family:Impact;
+    font-size: 45px;
+}
+
+#test {
+    padding: 22.5px;
+    background-color:#f96d00 ;
+    font-size: 20px;
+    text-decoration:none;
+    position: relative;
+    color: black;
+    width: 33.33%;
+    border-style: solid;
+}
+
+#inicio {
+    padding: 22.5px;
+    background-color:#f96d00 ;
+    font-size: 20px;
+    text-decoration:none;
+    position: relative;
+    color: black;
+    width: 33.33%;
+    border-style: solid;
+}
+
+#instrucciones {
+    padding: 22.5px;
+    background-color:#f96d00 ;
+    font-size: 20px;
+    text-decoration:none;
+    position: relative;
+    color: black;
+    width: 33.33%;
+    border-style: solid;
+}
+
+#preguntas {
+    text-align: center;
+}
+
+#texto{
+    text-align: center;
+}
+
+#abajo{
+    text-align: center;
+}
+
+#notaFinal{
+    text-align: center;
+    color:#f96d00 ;
+    font-size: 40px;
+}
