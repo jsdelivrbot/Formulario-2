@@ -62,7 +62,7 @@ window.onload = function () {
 
 };
 
-var url = "https://rawgit.com/mangel2500/Formulario/master/Formulario/json/json.json";
+var url = "https://cdn.jsdelivr.net/gh/mangel2500/Formulario/Formulario/json/json.json";
 
 var xhttp = new XMLHttpRequest();
 xhttp.onreadystatechange = function () {
